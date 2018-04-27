@@ -1,0 +1,2 @@
+# Izuna
+NGNL-themed musicbot
