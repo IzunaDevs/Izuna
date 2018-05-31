@@ -1,7 +1,7 @@
 import os
 
 from discord.ext.commands import when_mentioned_or
-from kitsuchan.k2 import core
+from kitsuchan import core
 
 
 class Izuna(core.Bot):

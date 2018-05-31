@@ -1,2 +1,5 @@
 izunadsp
+aiohttp
+youtube_dl
+https://gitlab.com/n303p4/kitsuchan/-/archive/master/kitsuchan-master.zip
 https://github.com/Rapptz/discord.py/archive/rewrite.zip
